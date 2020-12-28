@@ -1,0 +1,15 @@
+root: 'C:/Users/user/'
+
+data:
+    path: '/data'
+    py_data_path: '/data/pydata'
+
+keys:
+    alphavantage: 'api_key'
+
+DB:
+    name: dbname
+    user: usr
+    password: 'pass'
+    host: 'localhost'
+    port: 'port'

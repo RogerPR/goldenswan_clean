@@ -1,0 +1,17 @@
+
+
+
+
+
+#### how to Crear branca des de develop (amb el nom d'una feature que faras)
+git branch     -> t'ensenya quines branques tens en local i a quina estas (amb un asterisc)
+git checkout develop    -> et porta a la branca develop
+# Comprovar que estat tot al dia (git fetch o git pull)
+git checkout -b "nomdebranca"     -> Crea una branca des de la branca on estas
+
+git add ...
+git commit ...
+git add ..
+git commit ...
+
+git push origin "nomdebranca"
